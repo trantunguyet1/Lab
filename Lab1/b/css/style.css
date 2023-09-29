@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    border: black solid 2px;
+    margin: 0;
+    padding: 0;
+    width: 900px;
+    text-align: center;
+}
+p{
+    font-weight: bold;
+    font-size: 25px;
+    padding: 0;
+    margin: 10px;
+}
+.header{
+    border-bottom: black solid 2px;
+}
+
+.navi{
+    border-bottom: black solid 2px;
+}
+
+.content{
+    border-bottom: black solid 2px;
+    height: 200px;
+}
+.index{
+    float: left;
+    width: 19%;
+    border-right: black solid 2px;
+    height: 200px;
+}
+.content-section{
+    float: right;
+    width: 80%;
+}
