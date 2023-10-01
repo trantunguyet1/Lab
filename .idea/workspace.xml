@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89ab1960-a077-4c29-8cc0-f83e1754c982" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/Flat-UI-Icons.dev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/Flat-UI-Icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/Flat-UI-Icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/Flat-UI-Icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/Flat-UI-Icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/flatpack.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/flatpack.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/flatpack.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/fonts/flatpack.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/1_normal/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/1_normal/stars.original.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/main/software-img-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/social_icons/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/social_icons/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/social_icons/yt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/testimonials/envato-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/images/testimonials/unboune-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/page a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/stylesheets/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/stylesheets/img/X.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/stylesheets/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/page a/stylesheets/img/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/page a/stylesheets/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/page a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/page a/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -61,24 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/Github/Lab/Lab2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Github/Lab/Lab2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Github\Lab\Lab2" />
@@ -96,7 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1695988447376</updated>
       <workItem from="1695988452518" duration="55000" />
-      <workItem from="1695988553240" duration="11689000" />
+      <workItem from="1695988553240" duration="11905000" />
+      <workItem from="1696158064925" duration="14318000" />
     </task>
     <servers />
   </component>
