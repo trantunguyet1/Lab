@@ -105,7 +105,19 @@ body {
 #section_slider{
     background-color: rgb(243 243 243);
     height: 400px;
+    margin: 0;
+    padding:  0;
 }
 
+#section_slider .container{
+    margin: 0;
+    padding: 0;
+    height: 400px;
+    position: relative;
+}
 
-
+#section_slider .container ol{
+    margin: 0;
+    padding: 0;
+    visibility: hidden;
+}
