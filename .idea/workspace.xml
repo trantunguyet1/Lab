@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89ab1960-a077-4c29-8cc0-f83e1754c982" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/Flat-UI-Icons.dev.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/Flat-UI-Icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/Flat-UI-Icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/Flat-UI-Icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/Flat-UI-Icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/flatpack.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/flatpack.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/flatpack.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/fonts/flatpack.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/6_university/icon_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/6_university/icon_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/6_university/icon_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/main/logo-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/confirm1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/fullscreen-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/fullscreen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/pause-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/pause.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/play-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/poster.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/video_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/video_bg.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/video_bg.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/volume-full-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/volume-full.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/volume-off-2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/images/video/volume-off.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/page c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/stylesheets/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/stylesheets/img/X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/stylesheets/img/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/page c/stylesheets/img/sprite.png" beforeDir="false" />
-    </list>
+    <list default="true" id="89ab1960-a077-4c29-8cc0-f83e1754c982" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -70,24 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/Github/Lab/Lab2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Github/Lab/Lab2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Github\Lab\Lab2" />
@@ -114,6 +78,7 @@
       <workItem from="1696840535380" duration="950000" />
       <workItem from="1697099483700" duration="2345000" />
       <workItem from="1697603797023" duration="41000" />
+      <workItem from="1697728131989" duration="735000" />
     </task>
     <servers />
   </component>
